@@ -6,7 +6,13 @@ An end-to-end data analytics project built with **PostgreSQL** and **Power BI** 
 
 ## Dashboard Preview
 
-<img width="1341" height="753" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/35ef8a53-e949-46b1-9abf-aedd143f15c4" />
+<img width="1340" height="754" alt="image" src="https://github.com/user-attachments/assets/ffd2fc1e-3a19-443c-9c6f-8b91b6247a9c" />
+
+---
+## Model View
+
+<img width="1049" height="772" alt="image" src="https://github.com/user-attachments/assets/5afa20bc-8495-4021-941a-997619192129" />
+
 
 
 ---
