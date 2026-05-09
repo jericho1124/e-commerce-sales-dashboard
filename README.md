@@ -115,6 +115,3 @@ Queries written across three areas:
 - Revenue shows a consistent upward trend toward Q4 each year
 
 ---
-Data Analyst | Power BI | SQL | PostgreSQL
-
-> *Built as a portfolio project targeting Data Analyst and BI Analyst roles.*
