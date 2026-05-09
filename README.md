@@ -1,4 +1,6 @@
 # E-Commerce Sales Dashboard
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 An end-to-end data analytics project built with **PostgreSQL** and **Power BI** — covering data ingestion, star schema modeling, SQL analysis, and an interactive business intelligence dashboard.
 
