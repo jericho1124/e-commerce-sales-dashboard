@@ -46,9 +46,8 @@ An end-to-end data analytics project built with **PostgreSQL** and **Power BI** 
 ecommerce-sales-dashboard/
 │
 ├── sql/
-│   ├── 01_setup.sql           # Database and table creation, CSV load
-│   ├── 02_star_schema.sql     # Dimension and fact table creation
-│   └── 03_analysis.sql        # KPI queries, window functions, RFM
+│   ├── 01_star_schema_creation.sql     # Dimension and fact table creation
+│   └── 02_all_queries.sql        # KPI queries, window functions, RFM
 │
 ├── screenshots/
 │   └── dashboard.png          # Final dashboard screenshot
